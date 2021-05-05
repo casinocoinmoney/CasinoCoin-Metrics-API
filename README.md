@@ -99,8 +99,10 @@ https://api.casinocoin.info/metrics
       "sourceExchangeName": "XRP Ledger Decentralized Exchange",
       "high24hrRolling": 0.004136998750000001,
       "low24hrRolling": 0.003426974104859334,
-      "volumeBase24hrRolling": 36281791.87295876,
-      "volumeQuote24hrRolling": 132334.0983998091
+      "percentChange24hrRolling": -0.9203194106264986,
+      "priceMid": 0.003449704450027308,
+      "volumeBase24hrRolling": 34300634.22536636,
+      "volumeQuote24hrRolling": 126064.3923559277
     }
 ]
 ```
