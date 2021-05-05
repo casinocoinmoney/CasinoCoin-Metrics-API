@@ -62,8 +62,7 @@ https://api.casinocoin.info/metrics
       "volumeBase24hrRolling": 36281791.87295876,
       "volumeQuote24hrRolling": 91256.529869
     },
-},
-...
+    ...
 ]
 ```
 
