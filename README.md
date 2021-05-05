@@ -1,4 +1,4 @@
-# CasinoCoin (CSC) Metrics API for trading data on XRP Ledger DEX
+# CasinoCoin (CSC) Metrics API for market trading data on XRP Ledger DEX
 #### Version 1, dated 5th May 2021
 
 ## Endpoint
