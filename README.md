@@ -60,6 +60,7 @@ https://api.casinocoin.info/metrics
       "priceSpread": 0.00016501222111240402,
       "priceMid": 0.002527493886195743,
       "priceLastTraded": 0.002458320511854315,
+      "timeLastTraded": "2021-05-12T14:35:52.000Z",
       "volumeBase24hrRolling": 36281791.87295876,
       "volumeQuote24hrRolling": 91256.529869
     },
