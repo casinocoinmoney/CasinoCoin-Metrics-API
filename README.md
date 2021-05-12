@@ -37,6 +37,7 @@ https://api.casinocoin.info/metrics
 | `priceSpread` | Bid-Ask price spread |
 | `priceMid` | Mid price between `priceHighestBid` and `priceLowestAsk` |
 | `priceLastTraded` | Weighted average price of all orders of the pair that were executed together most recently |
+| `timeLastTraded` | Timestamp of last trade(s) on the pair |
 | `volumeBase24hrRolling` | Volume of base currency (CSC) traded within the current 24-hour rolling period |
 | `volumeQuote24hrRolling` | Volume of quote currency (`pairQuote`) traded within the current 24-hour rolling period |
 
